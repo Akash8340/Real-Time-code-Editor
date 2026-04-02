@@ -54,4 +54,3 @@ Users can join a shared room, edit code together, and see who is online in realt
 
 ---
 
-### Architecture Overview
